@@ -1,0 +1,19 @@
+body {
+color: white;
+background: rgba(115, 216, 68, 0.781);
+margin: 0px;
+}
+header {
+border-bottom:solid 2px rgb(0, 0, 0);
+padding: 30px;
+font-size: 32px;
+color: rgb(100, 20, 146);
+}
+section {
+border-bottom: solid 2px rgb(0, 0, 0);
+padding: 30px;
+background: rgb(209, 158, 233);
+color: black;
+display: flex;
+justify-content: center;
+}
